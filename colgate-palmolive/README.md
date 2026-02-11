@@ -25,7 +25,7 @@ The analysis confirms high-quality, sustainable earnings supported by stable cas
 1. Open the **.xlsx** file to review formulas and inputs.
 2. Refer to the **.pdf** for the complete narrative report, tables, and interpretations.
 
-Feel free to fork, use as reference, or reach out for questions!
+Feel free to reach out for questions!
 
 Yafet Mulaw  
 PGDM 2024-26  
